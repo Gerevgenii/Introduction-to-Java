@@ -62,7 +62,7 @@ This repository is based on the tasks I solved during the first semester during 
 > [!NOTE]
 > ### Модификация (WordsSuffix)
 > - Выходной файл должен содержать все различные суффиксы длины 3 слов встречающихся во входном файле, в лексикографическом порядке. Слова длины меньшей 3 используются как есть.
-> - Класс должен иметь имя WordStatWordsSuffix
+> - Класс должен иметь имя WordsSuffix
 
 ## Домашнее задание 5. Свой сканер
 1. Реализуйте свой аналог класса [Scanner](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Scanner.html) на основе [Reader](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/io/Reader.html).
